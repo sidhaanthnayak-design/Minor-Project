@@ -1,3 +1,4 @@
+# *WEEKLY PROJECT*
 This repository contains two Python projects focused on practical problem solving and data handling.
 
 Expense Tracker (ExpenseTrackerUnlox.ipynb):
@@ -5,3 +6,12 @@ A simple expense tracking program that helps users record and analyze their spen
 
 Student Marks Analyzer (StudentMarksAnalyserUnlox.ipynb):
 A program that analyzes student marks using Python and NumPy. It calculates total, average, highest and lowest marks, and assigns grades based on defined rules. The project highlights array operations and shows why NumPy is useful for numerical analysis.
+
+# *Tech Stack*
+- NumPy
+- Conditional Statements
+- Loop
+- Functions
+- Operators
+
+Authored by - *Sai Sidhaanth Nayak*
